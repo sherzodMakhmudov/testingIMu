@@ -17,9 +17,9 @@ For print help:
 ./AccelGyroMag -h
 */
 
-#include "Common/MPU9250.h"
-#include "Navio2/LSM9DS1.h"
-#include "Common/Util.h"
+#include "MPU9250.h"
+#include "LSM9DS1.h"
+#include "Util.h"
 #include <unistd.h>
 #include <string>
 #include <memory>
